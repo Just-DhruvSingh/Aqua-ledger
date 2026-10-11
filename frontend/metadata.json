@@ -1,0 +1,6 @@
+{
+  "name": "AquaLedger - Hydrological Intelligence Suite",
+  "description": "Civic Hydrological Intelligence Suite & Telemetry Platform for municipal water distribution and hydraulic parity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
